@@ -4,7 +4,7 @@
    * Apache 2.2+
    * PHP 5.2+ (5.6+ recommended)
    * MySQL 5.0+ (5.6+ recommended)
-2. Upload the provided Wordpress package (everything under wordpress folder) via FTP
+2. Upload the provided Wordpress package (everything under `/wordpress/` folder) via FTP
 3. Setup database for Wordpress
    * IF you want fresh installation: create a database & login using phpMyAdmin
    * IF you want existing setup: import SQL zip file with phpMyAdmin *(ziyoucaishi.sql.zip)*
@@ -29,7 +29,7 @@
    * Apache 2.2+
    * PHP 5.2+ (建议 5.6+)
    * MySQL 5.0+ (建议 5.6+)
-2. 通过FTP把Wordpress package (wordpress文件夹下所有内容) 上传至服务器
+2. 通过FTP把Wordpress package (`/wordpress/`文件夹下所有内容) 上传至服务器
 3. 建立并设置Wordpress database
    * 如果从新安装的话用 phpMyAdmin 来建立一个新的 Wordpress database
    * 如果使用现有设置的话用 phpMyAdmin 导入SQL ZIP文件 *(ziyoucaishi.sql.zip)*
